@@ -1,8 +1,8 @@
-package dev.rodrigovaamonde.demo_modulith.tasks;
+package dev.rodrigovaamonde.demo_modulith.task;
 
 import org.springframework.modulith.ApplicationModule;
 
 @ApplicationModule
-public class TasksModule {
+public class TaskModule {
 
 }
